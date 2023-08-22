@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on any project which might have a huge impact in real world applications.
 
 - 📫 How to reach me?
-- mayankthakur172@gmail.com
+- mayankthakur1712@gmail.com
 
 <!---
 mayank2130/mayank2130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
