@@ -11,6 +11,8 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank2130&show_icons=true&locale=en" alt="mayank2130" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2130&" alt="mayank2130" /></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayank2130&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
