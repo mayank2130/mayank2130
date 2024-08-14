@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Solana & Ethereum blockchain.<br>👯 I’m looking to collaborate on Web 3.<br>🤝 I’m looking for help with blockchain.<br>🌱 I’m currently learning Smart contracts.
-
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/mayank01322310) 
